@@ -4,7 +4,6 @@ Estas son mis practicas de HTML 5.2 en mi proceso de estudio hacia Web Developer
 
 Aqui dejo todo el contenido de lo que e aprendido de mi curso de html y las practicas del mismo curso.
 
-
                                                                                                     
                                                                                                     
                                                                                                     
@@ -94,6 +93,11 @@ Aqui dejo todo el contenido de lo que e aprendido de mi curso de html y las prac
                           EKKDDE.   #fffffffffffffffffffffff#iEDE #....                             
                            EKDDDE   #ffffffffffffffffffffffff#   #f.....#                           
                            GEKDDEK  #fffffffffffffffffffffffff###ff ....#                           
-                            EKDDDE  #ffffffffffffffffffffffffffffff#     i                          
+                            EKDDDE  #ffffffffffffffffffffffffffffff#     i     
+
+
+
+                            
+https://www.degraeve.com/img2txt.php  con este link puedes crear este tipo de imagenes.                     
                                                                                                     
                                                                               
